@@ -62,32 +62,7 @@ SMARTBRIDGE INTERN/
 
 ---
 
-## 💻 Run Locally
-
-You can run this project easily on your local system. Just follow these steps:
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/sathvik-bandla/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.git
-cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
-```
-
-### 2️⃣ Create a Virtual Environment (Optional but recommended)
-
-```bash
-python -m venv venv
-venv\Scripts\activate       # On Windows
-# source venv/bin/activate  # On macOS/Linux
-```
-
-### 3️⃣ Install the Required Packages
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Start the Flask App
+### Start the Flask App
 
 ```bash
 python app.py
