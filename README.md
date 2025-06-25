@@ -49,6 +49,7 @@ SMARTBRIDGE INTERN/
 ├── __pycache__/
 ├── documents/
     ├──Final Report Template1.pdf
+    ├──BrainstormingTemplate_HematoVision_Styled1.pdf
 ├── static/
 └── templates/          
     ├── home.html        
