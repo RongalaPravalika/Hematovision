@@ -48,7 +48,7 @@ This makes **HematoVision** an ideal assistant for biomedical learners, educator
 SMARTBRIDGE INTERN/
 ├── __pycache__/
 ├── documents/
-    ├──Projectreport1.pdf
+    ├──Final Report Template1.pdf
 ├── static/
 └── templates/          
     ├── home.html        
