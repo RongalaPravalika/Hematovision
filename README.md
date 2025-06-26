@@ -50,6 +50,8 @@ SMARTBRIDGE INTERN/
 ├── documents/
     ├──Final Report Template1.pdf
     ├──BrainstormingTemplate_HematoVision_Styled1.pdf
+    ├──Ideation_Phase_Empathize_Discover1 (1).pdf
+    ├──ProjectReport1.pdf
 ├── static/
 └── templates/          
     ├── home.html        
