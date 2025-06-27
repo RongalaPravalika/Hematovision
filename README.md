@@ -53,6 +53,7 @@ SMARTBRIDGE INTERN/
     ├──Ideation_Phase_Empathize_Discover1 (1).pdf
     ├──ProjectReport1.pdf
     ├──Project_Development_Model_Performance_Test1.pdf
+    ├──Project_Planning_HematoVision.pdf
     ├──Proposed_Solution_HematoVision1.pdf
     ├──Solution_Architecture_HematoVision1.pdf
 ├── static/
